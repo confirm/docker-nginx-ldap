@@ -1,7 +1,7 @@
 About
 =====
 
-The nginx-ldap Docker image will provides a container, that contains a [nginx server](http://nginx.org/) with LDAP support.
+The nginx-ldap Docker image provides a container, that contains a [nginx server](http://nginx.org/) with LDAP support.
 
 This [nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) module is used for LDAP support.
 
